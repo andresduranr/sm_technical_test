@@ -1,0 +1,14 @@
+                                                raw_ingr  raw_words                                          processed  len_proc replaced  count    id
+0      medium heads bibb or red leaf lettuce, washed,...         13  medium heads bibb or red leaf lettuce, washed,...        73  lettuce   4507  4308
+1                  mixed baby lettuces and spring greens          6               mixed baby lettuces and spring green        36  lettuce   4507  4308
+2                                   romaine lettuce leaf          3                               romaine lettuce leaf        20  lettuce   4507  4308
+3                                   iceberg lettuce leaf          3                               iceberg lettuce leaf        20  lettuce   4507  4308
+4                                    red romaine lettuce          3                                red romaine lettuce        19  lettuce   4507  4308
+...                                                  ...        ...                                                ...       ...      ...    ...   ...
+11654                                           soybeans          1                                            soybean         7  soybean     31  6702
+11655                                              goose          1                                              goose         5    goose      8  3318
+11656                                             ajwain          1                                             ajwain         6   ajwain     13    47
+11657                                           brinjals          1                                            brinjal         7  brinjal      2   750
+11658                                              khoya          1                                              khoya         5    khoya      6  4061
+
+[11659 rows x 7 columns]
